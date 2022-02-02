@@ -15,3 +15,5 @@ const randomIntInRange = (min, max, notIn) => {
 };
 
 generateQuestionId();
+
+module.exports = generateQuestionId;
